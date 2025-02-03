@@ -1,0 +1,64 @@
+body
+{
+    background-color: #EAA690;
+}
+.bg-custom
+{
+    background-color: #3B3333;
+}
+
+.header h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+    color: #333;
+}
+.card {
+    background-color: #FFE5D9; /* Soft Yellow */
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+    margin: 10px;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+.card-title {
+    color: #333333; /* Charcoal Gray */
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.card-text {
+    color: #555555; /* Teal */
+}
+
+.card a {
+    color: #EAA690; /* Matching the soft coral hue */
+    text-decoration: none;
+}
+
+.card a:hover {
+    color: red; /* Teal for hover effect */
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+/* .header h1 {
+    font-size: 3rem;
+    font-weight: bold;
+} */
+
+.header p {
+    font-size: 1.2rem;
+    color: #555555;
+}
+
+.search-bar {
+    margin-bottom: 2rem;
+}

@@ -1,0 +1,29 @@
+body {
+    background-color: #EAA690;
+    font-family: 'Rubik', sans-serif;
+}
+
+.head h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+    color: #333;
+}
+
+.bg-custom {
+    background-color: #F7B69A;
+}
+
+.card .btn {
+    background-color: #edac8e;
+    box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+    color: black;
+}
+
+.card .btn:hover {
+    background-color: #1E2029;
+    color: white;
+}
+
+img {
+    max-height: 150px;
+}

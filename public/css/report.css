@@ -1,0 +1,23 @@
+    body {
+        font-family: 'Rubik', sans-serif;
+        background-color: #EAA690 ;
+    }
+.card {
+    background-color: #FFE5D9;
+    border: none;
+}
+.head h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+    color: #333;
+}
+.card .btn {
+    background-color: #edac8e;
+    box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+    color: black;
+}
+
+.card .btn:hover {
+    background-color: #1E2029;
+    color: white;
+}

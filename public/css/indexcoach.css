@@ -1,0 +1,10 @@
+body {
+    font-family: 'Rubik', sans-serif;
+    background-color: #EAA690 ;
+}
+
+.head h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+    color: #333;
+}
